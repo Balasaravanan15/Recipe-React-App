@@ -1,0 +1,23 @@
+.Box{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 500px;
+  height: 300px;
+  margin: 20px;
+  padding:20px;  
+  text-align: center;
+  font-family: arial;
+  float: left;
+  background-color: darkblue;
+  color: white;
+}
+
+.Box button{
+    margin: 20px;
+    padding: 20px;
+    color: white;
+    background-color: orange;
+    display: grid;
+    float: right;
+    border-radius: 2px;
+
+}
